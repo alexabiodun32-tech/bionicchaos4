@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bionicchaos:power_core"
+    },
+    {
+      "item": "minecraft:clock"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    }
+  ],
+  "result": {
+    "id": "bionicchaos:chrono_core",
+    "count": 1
+  }
+}

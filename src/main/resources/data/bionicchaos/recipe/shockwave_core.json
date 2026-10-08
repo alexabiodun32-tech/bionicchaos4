@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bionicchaos:power_core"
+    },
+    {
+      "item": "minecraft:tnt"
+    },
+    {
+      "item": "minecraft:piston"
+    }
+  ],
+  "result": {
+    "id": "bionicchaos:shockwave_core",
+    "count": 1
+  }
+}

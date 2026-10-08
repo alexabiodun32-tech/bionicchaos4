@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bionicchaos:power_core"
+    },
+    {
+      "item": "minecraft:nether_star"
+    },
+    {
+      "item": "bionicchaos:quantum_core"
+    },
+    {
+      "item": "bionicchaos:speed_core"
+    },
+    {
+      "item": "bionicchaos:jump_core"
+    },
+    {
+      "item": "bionicchaos:strength_core"
+    },
+    {
+      "item": "bionicchaos:regen_core"
+    },
+    {
+      "item": "bionicchaos:flame_core"
+    },
+    {
+      "item": "bionicchaos:aqua_core"
+    }
+  ],
+  "result": {
+    "id": "bionicchaos:ultimate_core",
+    "count": 1
+  }
+}

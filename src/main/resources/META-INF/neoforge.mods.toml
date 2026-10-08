@@ -1,0 +1,28 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "bionicchaos"
+version = "1.0.0"
+displayName = "Bionic's Ultimate Chaos"
+description = '''
+Original Bionic-style chaos: Power Cores that grant superpowers.
+Vehicles, mobs and structures are on the roadmap.
+'''
+authors = "Ire"
+logoFile = "logo.png"
+
+[[dependencies.bionicchaos]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.bionicchaos]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

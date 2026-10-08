@@ -1,0 +1,19 @@
+{
+  "item.bionicchaos.power_core": "Power Core",
+  "item.bionicchaos.speed_core": "Speed Core",
+  "item.bionicchaos.jump_core": "Jump Core",
+  "item.bionicchaos.flight_core": "Flight Core",
+  "item.bionicchaos.quantum_core": "Quantum Core",
+  "item.bionicchaos.strength_core": "Strength Core",
+  "item.bionicchaos.regen_core": "Regen Core",
+  "item.bionicchaos.stealth_core": "Stealth Core",
+  "item.bionicchaos.flame_core": "Flame Core",
+  "item.bionicchaos.aqua_core": "Aqua Core",
+  "item.bionicchaos.scanner_core": "Scanner Core",
+  "item.bionicchaos.shockwave_core": "Shockwave Core",
+  "item.bionicchaos.chrono_core": "Chrono Core",
+  "item.bionicchaos.ultimate_core": "Ultimate Core",
+  "itemGroup.bionicchaos.main": "Bionic's Ultimate Chaos",
+  "item.bionicchaos.bionic_super_core": "Bionic Super Core",
+  "item.bionicchaos.bionic_super_sword": "Bionic Super Sword"
+}

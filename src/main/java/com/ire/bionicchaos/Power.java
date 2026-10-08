@@ -1,0 +1,6 @@
+package com.ire.bionicchaos;
+
+public enum Power {
+    SPEED, JUMP, FLIGHT, TELEPORT, SCAN, STRENGTH, REGEN,
+    INVISIBILITY, FIRE_IMMUNITY, WATER_BREATHING, SHOCKWAVE, TIME_SLOW
+}
